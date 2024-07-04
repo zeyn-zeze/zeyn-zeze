@@ -1,4 +1,5 @@
-<img width="900" height = "500" alt="Screenshot 2024-05-12 005505" src="https://github.com/zeyn-zeze/zeyn-zeze/assets/116917341/d5a1890a-0d10-471e-b32f-311916b674f6">
+<img width="900" height = "500" alt="Screenshot 2024-05-12 005505" src="![image](https://github.com/zeyn-zeze/zeyn-zeze/assets/116917341/57aad779-2cc3-4f58-b36b-1d3bbbd9c330)
+">
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I am software engineering student at Kocaeli University</h3>
 
