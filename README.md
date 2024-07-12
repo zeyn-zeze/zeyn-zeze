@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyn-zeze&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="zeyn-zeze" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyn-zeze&theme=tokyonight" alt="zeyn-zeze" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyn-zeze&theme=synthwave" alt="zeyn-zeze" /></p>
 
